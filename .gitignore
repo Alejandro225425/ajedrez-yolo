@@ -1,0 +1,10 @@
+venv/
+.venv/
+venv-msys2/
+venv-msys2-old/
+venv-msys2-backup/
+__pycache__/
+*.pyc
+runs/
+models/
+board_corners.json

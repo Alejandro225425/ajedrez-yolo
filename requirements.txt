@@ -1,0 +1,5 @@
+ultralytics>=8.3
+opencv-python>=4.10
+python-chess>=1.999
+requests>=2.32
+numpy>=1.26
